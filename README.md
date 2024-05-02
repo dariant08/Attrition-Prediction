@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
+# Proyek Pertama: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
 Jaya Jaya Maju merupakan sebuah perusahaan multinasional cukup besar yang berdiri sejak tahun 2000. Perusahaan ini memiliki jumlah karyawan lebih dari 1000 karyawan yang berada diseluruh penjuru negeri.
 
 ## Permasalahan Bisnis
