@@ -13,6 +13,8 @@ Pada saat ini Jaya Jaya Maju memiliki permasalahan dalam pengelolaan karyawan, d
 
 URL Dashboard : https://public.tableau.com/app/profile/da.riant/viz/Jayajayamajudashboard/Dashboard1?publish=yes
 
+URL Video Dashboard : https://drive.google.com/file/d/1v2JmfmD3HiKjG5zxP-Mm6M-CPKnk0-h8/view?usp=sharing
+
 Sumber data : Data karyawan departemen HRD Jaya Jaya Maju
 
 Dashboard diatas merupakan sebuah analisa data karyawan Jaya Jaya Maju, dashboard tersebut menampilkan jumlah karyawan yang dikelompok dalam beberapa kategori.
