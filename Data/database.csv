@@ -1,0 +1,1471 @@
+Age,Department,JobLevel,Gender,PercentSalaryHike,YearsInCurrentRole,YearsAtCompany,Attritions
+38,Human Resources,1,Male,11,2,6,Bekerja
+37,Research & Development,2,Female,15,0,1,Tidak bekerja
+51,Research & Development,1,Male,12,0,10,Tidak bekerja
+42,Sales,4,Female,14,4,20,Bekerja
+40,Research & Development,1,Female,14,3,5,Bekerja
+29,Human Resources,1,Male,11,0,1,Bekerja
+40,Sales,2,Male,22,3,4,Bekerja
+55,Research & Development,5,Male,13,2,5,Tidak bekerja
+36,Research & Development,1,Female,13,1,8,Bekerja
+32,Research & Development,3,Female,15,7,7,Bekerja
+25,Sales,2,Male,12,2,5,Bekerja
+20,Research & Development,1,Male,19,0,1,Tidak bekerja
+47,Sales,2,Female,17,4,5,Bekerja
+42,Research & Development,4,Female,14,0,1,Bekerja
+31,Research & Development,2,Female,11,7,9,Bekerja
+38,Research & Development,2,Female,12,11,13,Bekerja
+39,Research & Development,2,Female,11,7,20,Bekerja
+54,Research & Development,5,Male,11,2,4,Bekerja
+25,Research & Development,2,Male,17,7,7,Bekerja
+49,Research & Development,5,Male,13,0,1,Bekerja
+24,Research & Development,1,Male,11,5,6,Bekerja
+40,Research & Development,4,Female,15,6,20,Bekerja
+41,Sales,2,Male,14,3,14,Bekerja
+32,Sales,2,Female,11,12,13,Bekerja
+24,Research & Development,1,Male,16,0,2,Tidak bekerja
+49,Research & Development,1,Female,14,6,9,Bekerja
+24,Research & Development,1,Male,14,1,1,Bekerja
+39,Research & Development,4,Female,13,9,19,Bekerja
+59,Human Resources,1,Male,17,2,2,Bekerja
+47,Human Resources,5,Female,11,2,5,Bekerja
+36,Research & Development,2,Male,17,8,16,Bekerja
+30,Research & Development,2,Male,13,7,10,Bekerja
+38,Human Resources,1,Male,13,6,7,Bekerja
+28,Sales,1,Male,15,2,3,Tidak bekerja
+31,Research & Development,1,Male,18,2,2,Bekerja
+36,Sales,2,Female,15,0,1,Bekerja
+32,Research & Development,2,Male,22,8,9,Bekerja
+43,Research & Development,1,Male,12,4,6,Bekerja
+28,Sales,2,Male,15,4,5,Bekerja
+31,Sales,2,Male,18,7,7,Tidak bekerja
+50,Sales,1,Male,15,2,2,Bekerja
+39,Research & Development,3,Male,17,10,18,Bekerja
+35,Research & Development,1,Male,13,4,5,Bekerja
+32,Sales,2,Male,14,8,10,Bekerja
+26,Research & Development,1,Male,20,1,1,Tidak bekerja
+30,Research & Development,2,Male,19,10,11,Bekerja
+38,Sales,2,Female,11,7,10,Bekerja
+30,Human Resources,1,Male,21,3,5,Bekerja
+38,Research & Development,3,Male,21,7,9,Bekerja
+21,Sales,1,Male,11,2,3,Bekerja
+35,Research & Development,3,Male,21,5,8,Bekerja
+50,Sales,5,Male,16,0,1,Bekerja
+34,Research & Development,2,Male,13,7,9,Bekerja
+26,Research & Development,2,Female,20,5,6,Bekerja
+31,Research & Development,1,Male,13,2,2,Tidak bekerja
+30,Research & Development,1,Male,12,4,6,Bekerja
+32,Research & Development,1,Female,13,0,8,Bekerja
+32,Sales,2,Male,12,7,10,Bekerja
+34,Research & Development,1,Male,12,3,7,Bekerja
+33,Research & Development,3,Female,11,6,10,Bekerja
+47,Research & Development,2,Female,13,0,5,Bekerja
+35,Sales,1,Male,13,0,1,Bekerja
+30,Research & Development,1,Male,21,2,2,Bekerja
+58,Research & Development,1,Female,20,0,1,Bekerja
+37,Sales,3,Male,11,1,14,Tidak bekerja
+45,Research & Development,4,Female,11,6,21,Bekerja
+52,Sales,1,Male,15,8,9,Bekerja
+38,Research & Development,1,Female,12,2,2,Bekerja
+43,Sales,2,Female,13,3,4,Tidak bekerja
+27,Sales,2,Female,21,8,9,Bekerja
+52,Research & Development,4,Female,11,3,5,Bekerja
+49,Research & Development,2,Female,25,2,3,Bekerja
+44,Sales,2,Female,21,3,4,Bekerja
+59,Research & Development,1,Male,17,0,1,Bekerja
+58,Sales,4,Female,13,0,1,Bekerja
+31,Research & Development,1,Female,12,2,2,Bekerja
+42,Research & Development,2,Female,16,3,5,Bekerja
+45,Sales,2,Male,19,7,8,Bekerja
+31,Sales,2,Female,11,2,5,Bekerja
+34,Research & Development,2,Female,12,8,11,Bekerja
+21,Research & Development,1,Female,19,0,1,Tidak bekerja
+23,Research & Development,1,Male,16,2,3,Bekerja
+47,Research & Development,1,Female,12,2,2,Bekerja
+54,Sales,2,Female,14,2,6,Bekerja
+41,Research & Development,1,Female,13,6,10,Bekerja
+45,Research & Development,3,Male,18,7,7,Bekerja
+36,Sales,2,Female,13,3,6,Bekerja
+45,Sales,3,Female,12,7,19,Bekerja
+46,Sales,3,Female,21,7,8,Bekerja
+42,Sales,2,Male,12,0,0,Bekerja
+34,Research & Development,2,Male,14,10,15,Bekerja
+37,Research & Development,2,Male,22,3,5,Bekerja
+55,Sales,3,Male,14,0,1,Bekerja
+22,Research & Development,1,Female,14,2,4,Bekerja
+34,Research & Development,2,Male,17,9,10,Bekerja
+29,Research & Development,2,Male,12,3,5,Bekerja
+57,Research & Development,2,Male,24,9,12,Bekerja
+53,Sales,3,Male,13,2,2,Bekerja
+33,Research & Development,1,Female,21,2,3,Bekerja
+32,Research & Development,1,Male,12,0,3,Bekerja
+21,Research & Development,1,Female,20,2,2,Tidak bekerja
+34,Sales,1,Female,16,2,2,Tidak bekerja
+55,Research & Development,1,Male,12,2,4,Bekerja
+27,Sales,2,Female,14,7,7,Bekerja
+46,Sales,4,Female,12,17,19,Bekerja
+36,Research & Development,1,Male,14,7,7,Bekerja
+41,Research & Development,5,Female,12,15,22,Tidak bekerja
+38,Research & Development,2,Male,15,11,13,Bekerja
+33,Research & Development,2,Male,23,11,13,Bekerja
+18,Research & Development,1,Male,12,0,0,Tidak bekerja
+27,Research & Development,1,Female,16,7,7,Bekerja
+22,Research & Development,2,Male,22,2,2,Bekerja
+33,Research & Development,1,Male,13,4,5,Tidak bekerja
+42,Research & Development,2,Female,11,5,6,Bekerja
+29,Research & Development,1,Male,18,7,10,Bekerja
+39,Research & Development,2,Male,15,8,9,Bekerja
+35,Research & Development,2,Female,12,7,9,Bekerja
+30,Research & Development,2,Male,16,0,7,Bekerja
+37,Sales,3,Male,13,5,9,Bekerja
+39,Research & Development,2,Male,15,8,10,Bekerja
+52,Sales,5,Female,15,14,32,Tidak bekerja
+31,Sales,2,Male,11,7,8,Bekerja
+29,Sales,1,Male,11,0,1,Bekerja
+28,Research & Development,1,Male,17,1,1,Bekerja
+26,Research & Development,1,Male,13,7,7,Bekerja
+32,Sales,2,Male,12,2,4,Tidak bekerja
+35,Research & Development,3,Male,13,0,4,Bekerja
+43,Research & Development,5,Male,14,7,8,Bekerja
+33,Research & Development,1,Male,14,1,3,Bekerja
+44,Research & Development,3,Female,19,7,8,Bekerja
+41,Sales,2,Male,11,4,5,Bekerja
+45,Research & Development,2,Male,12,2,4,Bekerja
+37,Sales,2,Female,14,0,1,Bekerja
+27,Research & Development,1,Female,13,2,8,Tidak bekerja
+28,Research & Development,1,Male,17,3,5,Bekerja
+27,Research & Development,3,Male,21,7,9,Bekerja
+37,Sales,2,Male,19,0,1,Bekerja
+27,Research & Development,1,Male,13,2,4,Bekerja
+37,Sales,1,Male,17,8,9,Bekerja
+31,Research & Development,2,Female,19,9,10,Bekerja
+48,Research & Development,5,Male,12,0,1,Bekerja
+36,Research & Development,2,Female,15,7,9,Bekerja
+37,Research & Development,2,Female,13,8,14,Bekerja
+55,Research & Development,2,Male,16,2,3,Bekerja
+33,Research & Development,2,Male,20,7,9,Bekerja
+38,Sales,2,Female,22,3,8,Bekerja
+32,Sales,2,Male,11,2,5,Bekerja
+32,Research & Development,1,Female,17,2,3,Bekerja
+28,Research & Development,2,Female,13,7,8,Bekerja
+43,Research & Development,1,Female,12,2,3,Bekerja
+29,Sales,2,Male,14,7,10,Bekerja
+30,Research & Development,1,Male,21,9,11,Bekerja
+33,Sales,4,Male,11,8,10,Bekerja
+43,Research & Development,2,Female,21,0,1,Bekerja
+42,Research & Development,3,Female,17,0,1,Bekerja
+37,Research & Development,1,Female,20,4,5,Bekerja
+56,Research & Development,2,Male,21,12,13,Bekerja
+27,Research & Development,1,Female,19,6,7,Bekerja
+26,Human Resources,1,Female,11,1,5,Bekerja
+24,Sales,1,Male,13,2,2,Bekerja
+37,Research & Development,2,Female,15,11,13,Bekerja
+37,Sales,2,Male,11,0,3,Bekerja
+40,Research & Development,2,Female,11,7,20,Bekerja
+34,Research & Development,1,Male,14,0,5,Bekerja
+55,Sales,2,Male,16,7,9,Tidak bekerja
+34,Sales,2,Female,12,8,10,Bekerja
+18,Sales,1,Female,12,0,0,Bekerja
+41,Sales,4,Male,19,10,22,Bekerja
+44,Sales,2,Female,12,0,1,Bekerja
+42,Sales,2,Male,11,7,9,Bekerja
+51,Research & Development,4,Female,18,7,7,Bekerja
+32,Research & Development,1,Male,14,2,3,Tidak bekerja
+42,Research & Development,1,Male,22,3,6,Bekerja
+31,Sales,3,Male,21,4,5,Bekerja
+31,Research & Development,2,Female,12,3,4,Bekerja
+30,Research & Development,1,Female,17,2,3,Tidak bekerja
+36,Research & Development,1,Female,13,2,2,Bekerja
+28,Research & Development,1,Male,16,2,4,Bekerja
+30,Research & Development,2,Male,15,2,6,Bekerja
+35,Sales,1,Female,13,2,2,Bekerja
+59,Research & Development,3,Male,12,7,9,Bekerja
+39,Research & Development,3,Male,21,4,6,Bekerja
+27,Research & Development,1,Female,11,2,6,Bekerja
+29,Sales,2,Male,18,7,10,Bekerja
+34,Human Resources,3,Female,15,2,3,Tidak bekerja
+36,Research & Development,2,Male,12,0,8,Bekerja
+30,Research & Development,1,Female,14,2,3,Bekerja
+34,Sales,2,Female,21,7,8,Bekerja
+27,Research & Development,3,Male,16,8,9,Bekerja
+43,Research & Development,3,Female,16,0,1,Bekerja
+38,Research & Development,3,Male,14,10,11,Bekerja
+36,Sales,3,Female,19,7,9,Bekerja
+39,Research & Development,2,Female,13,2,9,Bekerja
+31,Sales,1,Male,12,2,2,Bekerja
+30,Sales,2,Male,23,7,8,Bekerja
+44,Sales,4,Female,18,11,12,Bekerja
+23,Research & Development,1,Male,14,3,4,Bekerja
+41,Sales,2,Female,21,4,5,Bekerja
+21,Research & Development,1,Female,13,0,1,Tidak bekerja
+45,Research & Development,3,Male,23,15,23,Bekerja
+40,Sales,2,Male,12,4,8,Bekerja
+44,Research & Development,1,Male,12,3,4,Bekerja
+31,Research & Development,1,Male,19,4,6,Bekerja
+46,Sales,3,Male,11,7,7,Tidak bekerja
+53,Research & Development,2,Male,17,2,2,Bekerja
+49,Research & Development,1,Female,16,2,4,Bekerja
+46,Research & Development,2,Female,23,13,16,Bekerja
+31,Research & Development,1,Female,23,2,4,Bekerja
+50,Research & Development,4,Male,15,8,30,Bekerja
+58,Research & Development,5,Female,21,8,9,Bekerja
+34,Sales,2,Male,20,5,9,Bekerja
+26,Sales,2,Male,13,3,5,Bekerja
+35,Research & Development,1,Male,13,2,3,Bekerja
+32,Research & Development,1,Male,12,2,6,Bekerja
+35,Research & Development,1,Male,15,4,5,Bekerja
+19,Research & Development,1,Female,12,0,1,Bekerja
+28,Sales,2,Male,18,4,5,Bekerja
+32,Sales,3,Male,11,8,14,Tidak bekerja
+43,Research & Development,2,Female,13,2,5,Bekerja
+24,Research & Development,1,Male,13,2,6,Bekerja
+37,Research & Development,2,Female,13,2,6,Bekerja
+49,Research & Development,4,Female,16,2,4,Bekerja
+38,Research & Development,2,Male,14,0,1,Bekerja
+30,Human Resources,2,Male,19,9,11,Bekerja
+53,Sales,2,Male,20,7,7,Bekerja
+42,Sales,2,Male,25,16,20,Bekerja
+30,Research & Development,1,Female,20,0,1,Bekerja
+31,Research & Development,2,Male,21,8,10,Bekerja
+25,Sales,1,Male,18,0,1,Tidak bekerja
+53,Research & Development,4,Male,12,8,9,Bekerja
+40,Research & Development,2,Female,17,3,5,Bekerja
+32,Research & Development,2,Female,12,1,7,Bekerja
+29,Sales,1,Male,14,2,2,Bekerja
+42,Sales,4,Male,12,9,21,Tidak bekerja
+34,Research & Development,1,Female,16,2,5,Bekerja
+28,Human Resources,1,Male,13,1,5,Bekerja
+43,Sales,4,Female,22,13,17,Bekerja
+47,Sales,2,Male,11,0,1,Bekerja
+37,Sales,2,Male,14,4,5,Bekerja
+44,Human Resources,2,Female,11,2,2,Bekerja
+34,Research & Development,1,Female,20,4,5,Bekerja
+34,Research & Development,2,Male,15,10,15,Bekerja
+47,Research & Development,2,Male,18,7,8,Bekerja
+28,Sales,2,Male,16,5,7,Bekerja
+40,Sales,2,Male,14,7,7,Bekerja
+34,Sales,2,Female,17,2,3,Bekerja
+44,Research & Development,2,Male,12,2,5,Bekerja
+25,Research & Development,1,Male,13,3,4,Bekerja
+34,Research & Development,1,Male,11,2,4,Tidak bekerja
+60,Research & Development,5,Female,11,8,29,Bekerja
+32,Sales,2,Male,12,3,4,Bekerja
+28,Sales,2,Female,11,0,2,Bekerja
+36,Research & Development,1,Male,18,2,6,Bekerja
+45,Human Resources,3,Female,21,0,5,Bekerja
+32,Research & Development,1,Female,12,7,8,Bekerja
+42,Human Resources,4,Female,14,7,20,Bekerja
+46,Sales,3,Male,12,6,10,Bekerja
+40,Sales,2,Male,12,4,6,Tidak bekerja
+39,Research & Development,2,Male,14,2,2,Bekerja
+25,Sales,2,Male,11,4,6,Tidak bekerja
+29,Sales,2,Male,11,2,5,Bekerja
+24,Research & Development,1,Male,12,3,5,Bekerja
+35,Research & Development,2,Female,25,6,10,Bekerja
+48,Sales,2,Male,12,2,2,Bekerja
+50,Research & Development,4,Male,22,4,5,Bekerja
+54,Research & Development,4,Male,14,9,10,Bekerja
+30,Sales,1,Male,18,0,1,Bekerja
+31,Sales,2,Female,11,2,2,Tidak bekerja
+39,Sales,2,Female,18,0,1,Tidak bekerja
+51,Research & Development,3,Male,15,2,4,Tidak bekerja
+44,Research & Development,1,Male,14,2,5,Bekerja
+50,Research & Development,5,Female,12,3,27,Bekerja
+23,Research & Development,2,Male,14,3,4,Bekerja
+32,Research & Development,2,Male,17,4,10,Bekerja
+44,Research & Development,5,Male,14,9,25,Bekerja
+40,Research & Development,1,Male,14,2,2,Bekerja
+53,Sales,4,Female,16,8,25,Bekerja
+55,Research & Development,1,Male,20,2,5,Bekerja
+55,Sales,4,Female,23,9,10,Bekerja
+38,Sales,2,Female,13,3,5,Bekerja
+34,Human Resources,1,Female,15,2,2,Tidak bekerja
+36,Research & Development,3,Female,11,8,14,Bekerja
+57,Research & Development,3,Male,16,3,5,Bekerja
+32,Sales,2,Male,13,0,0,Bekerja
+36,Research & Development,2,Male,16,4,10,Bekerja
+28,Research & Development,1,Male,11,0,0,Tidak bekerja
+35,Research & Development,2,Male,14,2,3,Bekerja
+27,Sales,2,Female,20,5,6,Bekerja
+31,Human Resources,1,Male,17,0,1,Bekerja
+37,Human Resources,1,Male,22,2,3,Tidak bekerja
+46,Research & Development,2,Male,14,7,10,Bekerja
+50,Sales,1,Male,14,2,3,Tidak bekerja
+45,Research & Development,4,Male,23,8,20,Bekerja
+27,Sales,2,Male,19,2,4,Bekerja
+41,Sales,4,Female,16,16,18,Bekerja
+30,Research & Development,1,Female,14,7,11,Bekerja
+32,Sales,1,Female,12,0,1,Bekerja
+55,Research & Development,5,Male,11,15,24,Bekerja
+32,Research & Development,2,Male,18,4,10,Tidak bekerja
+54,Research & Development,3,Female,17,4,5,Bekerja
+44,Research & Development,1,Male,11,4,6,Tidak bekerja
+32,Research & Development,2,Female,12,4,6,Bekerja
+25,Sales,2,Female,22,3,5,Bekerja
+33,Sales,1,Female,19,2,2,Bekerja
+28,Research & Development,1,Male,12,1,4,Bekerja
+27,Research & Development,1,Male,18,2,2,Bekerja
+33,Research & Development,1,Male,11,2,3,Bekerja
+47,Research & Development,3,Male,12,7,10,Tidak bekerja
+19,Research & Development,1,Female,25,1,1,Tidak bekerja
+37,Research & Development,2,Male,14,0,1,Bekerja
+56,Research & Development,4,Male,12,16,19,Bekerja
+28,Research & Development,1,Female,25,2,3,Bekerja
+34,Research & Development,1,Female,12,9,10,Bekerja
+37,Sales,2,Male,14,2,5,Bekerja
+29,Research & Development,2,Female,12,5,9,Bekerja
+38,Research & Development,3,Female,17,8,10,Bekerja
+42,Research & Development,2,Male,23,0,1,Bekerja
+39,Research & Development,2,Male,25,0,10,Bekerja
+36,Research & Development,3,Female,12,2,3,Bekerja
+54,Research & Development,3,Female,11,7,10,Bekerja
+29,Research & Development,1,Male,23,4,5,Bekerja
+26,Sales,2,Male,12,7,7,Bekerja
+37,Sales,3,Male,13,0,10,Bekerja
+26,Sales,1,Female,18,2,4,Bekerja
+31,Research & Development,2,Male,22,7,7,Bekerja
+41,Research & Development,2,Male,12,2,3,Bekerja
+45,Sales,2,Female,14,1,1,Tidak bekerja
+43,Research & Development,4,Male,24,1,4,Bekerja
+29,Research & Development,3,Male,18,2,10,Bekerja
+30,Sales,3,Male,11,4,8,Bekerja
+40,Research & Development,4,Male,22,3,22,Bekerja
+30,Research & Development,3,Female,14,7,7,Bekerja
+34,Research & Development,2,Male,12,3,4,Bekerja
+56,Sales,4,Female,11,7,7,Bekerja
+25,Sales,2,Male,11,2,3,Bekerja
+42,Human Resources,2,Male,16,3,4,Bekerja
+32,Sales,3,Female,14,8,9,Bekerja
+32,Research & Development,2,Male,15,8,10,Bekerja
+55,Research & Development,2,Male,19,7,10,Bekerja
+39,Research & Development,2,Male,13,7,7,Bekerja
+44,Research & Development,3,Male,18,2,2,Bekerja
+41,Human Resources,2,Male,19,2,3,Bekerja
+27,Research & Development,1,Male,19,2,3,Bekerja
+38,Research & Development,1,Male,16,2,2,Bekerja
+37,Sales,1,Female,15,4,5,Bekerja
+36,Human Resources,2,Male,21,1,10,Bekerja
+26,Research & Development,2,Male,13,3,5,Bekerja
+37,Research & Development,2,Male,17,3,4,Bekerja
+45,Research & Development,5,Male,11,0,24,Bekerja
+26,Sales,2,Female,19,2,2,Bekerja
+41,Sales,3,Male,13,7,9,Bekerja
+19,Research & Development,1,Male,25,1,1,Bekerja
+40,Sales,3,Male,11,11,12,Bekerja
+26,Research & Development,1,Male,18,7,7,Bekerja
+43,Research & Development,2,Female,11,7,9,Bekerja
+35,Research & Development,1,Male,18,0,1,Bekerja
+52,Sales,4,Male,11,6,34,Bekerja
+49,Research & Development,2,Female,14,11,15,Bekerja
+37,Research & Development,1,Male,14,5,6,Bekerja
+43,Research & Development,1,Male,20,2,3,Bekerja
+22,Research & Development,1,Male,12,2,3,Bekerja
+23,Sales,1,Male,13,0,0,Bekerja
+55,Research & Development,4,Female,14,0,5,Bekerja
+53,Research & Development,4,Female,18,9,12,Bekerja
+34,Research & Development,2,Male,20,9,13,Bekerja
+58,Research & Development,1,Male,24,0,1,Tidak bekerja
+34,Research & Development,2,Male,17,2,6,Bekerja
+30,Research & Development,3,Male,22,8,11,Bekerja
+32,Research & Development,1,Male,20,4,5,Bekerja
+36,Research & Development,2,Male,16,11,13,Bekerja
+42,Research & Development,1,Male,13,0,0,Bekerja
+47,Research & Development,3,Female,18,8,13,Bekerja
+40,Sales,2,Male,12,0,0,Bekerja
+36,Research & Development,2,Female,15,8,9,Bekerja
+21,Research & Development,1,Male,14,0,0,Bekerja
+36,Sales,2,Male,24,12,15,Bekerja
+34,Sales,1,Female,18,2,8,Bekerja
+42,Research & Development,2,Male,17,3,4,Bekerja
+34,Research & Development,2,Female,14,13,16,Bekerja
+60,Research & Development,3,Male,20,0,1,Bekerja
+39,Human Resources,2,Female,11,4,5,Bekerja
+45,Research & Development,2,Male,14,9,10,Bekerja
+26,Research & Development,1,Male,20,7,7,Bekerja
+56,Sales,2,Female,16,0,0,Bekerja
+31,Research & Development,1,Male,11,4,5,Tidak bekerja
+38,Sales,2,Male,12,0,1,Bekerja
+35,Research & Development,2,Male,17,9,10,Bekerja
+31,Research & Development,3,Male,12,2,2,Bekerja
+26,Research & Development,1,Female,13,2,3,Bekerja
+38,Sales,2,Female,20,2,4,Bekerja
+30,Research & Development,2,Female,12,2,9,Bekerja
+41,Sales,3,Female,13,14,22,Bekerja
+34,Research & Development,3,Male,11,7,9,Bekerja
+35,Research & Development,1,Male,14,2,3,Bekerja
+27,Research & Development,1,Female,13,0,1,Bekerja
+39,Sales,4,Female,11,9,20,Bekerja
+56,Research & Development,1,Male,16,2,4,Bekerja
+32,Research & Development,2,Male,24,0,1,Bekerja
+31,Research & Development,1,Male,12,2,5,Bekerja
+39,Research & Development,1,Female,11,3,8,Bekerja
+29,Research & Development,1,Male,24,7,10,Bekerja
+33,Research & Development,2,Male,15,8,9,Bekerja
+29,Sales,3,Female,22,4,10,Tidak bekerja
+44,Research & Development,1,Male,12,2,3,Tidak bekerja
+26,Research & Development,1,Female,19,4,5,Bekerja
+48,Sales,2,Female,14,7,9,Bekerja
+38,Research & Development,2,Female,20,2,3,Bekerja
+36,Sales,2,Male,16,2,4,Bekerja
+23,Research & Development,1,Male,21,0,0,Tidak bekerja
+29,Research & Development,2,Male,13,3,4,Bekerja
+50,Research & Development,4,Male,18,11,12,Bekerja
+37,Sales,3,Male,12,3,5,Bekerja
+24,Research & Development,2,Male,12,3,4,Bekerja
+31,Human Resources,1,Female,18,2,3,Bekerja
+49,Sales,3,Female,18,8,9,Tidak bekerja
+34,Research & Development,2,Female,13,8,11,Bekerja
+41,Sales,2,Female,11,4,6,Tidak bekerja
+34,Research & Development,2,Female,11,1,5,Bekerja
+39,Research & Development,3,Female,25,6,19,Bekerja
+32,Research & Development,1,Female,22,2,10,Tidak bekerja
+37,Research & Development,1,Male,12,2,4,Bekerja
+30,Research & Development,1,Female,11,2,5,Tidak bekerja
+47,Research & Development,3,Female,12,11,22,Bekerja
+55,Research & Development,5,Male,14,10,36,Bekerja
+37,Research & Development,1,Male,17,0,1,Bekerja
+35,Sales,2,Male,11,9,11,Bekerja
+46,Research & Development,3,Male,13,9,10,Bekerja
+29,Research & Development,1,Female,17,3,5,Bekerja
+36,Research & Development,1,Female,22,0,1,Bekerja
+24,Research & Development,1,Male,17,2,5,Bekerja
+50,Research & Development,5,Male,11,1,8,Bekerja
+32,Research & Development,1,Female,20,0,3,Bekerja
+34,Research & Development,1,Female,11,5,6,Bekerja
+26,Research & Development,1,Male,12,7,7,Bekerja
+33,Sales,2,Female,19,3,5,Bekerja
+48,Research & Development,1,Female,12,2,8,Bekerja
+35,Research & Development,2,Male,14,2,10,Bekerja
+38,Research & Development,1,Male,17,1,2,Bekerja
+37,Research & Development,1,Female,18,2,3,Bekerja
+35,Research & Development,3,Male,12,7,8,Bekerja
+32,Research & Development,2,Male,13,2,6,Bekerja
+38,Research & Development,2,Female,12,7,15,Bekerja
+39,Research & Development,4,Male,14,9,21,Bekerja
+33,Research & Development,1,Male,13,10,14,Bekerja
+34,Sales,2,Female,12,2,2,Bekerja
+59,Sales,2,Female,17,1,6,Bekerja
+36,Sales,2,Male,14,14,18,Bekerja
+37,Research & Development,3,Male,14,8,10,Bekerja
+31,Sales,3,Male,13,0,1,Bekerja
+28,Research & Development,1,Female,21,3,5,Bekerja
+49,Research & Development,5,Male,17,9,31,Bekerja
+34,Research & Development,1,Male,13,5,6,Bekerja
+36,Research & Development,2,Female,15,2,3,Bekerja
+53,Research & Development,3,Male,15,3,4,Bekerja
+48,Sales,1,Female,11,7,9,Bekerja
+35,Sales,3,Male,22,7,8,Tidak bekerja
+27,Sales,3,Male,15,8,9,Bekerja
+48,Research & Development,3,Male,14,11,15,Bekerja
+41,Research & Development,1,Male,21,0,5,Bekerja
+36,Research & Development,1,Male,12,10,11,Bekerja
+40,Research & Development,2,Male,14,2,3,Bekerja
+49,Research & Development,1,Female,16,2,2,Bekerja
+31,Research & Development,2,Female,23,7,11,Bekerja
+20,Research & Development,1,Male,11,0,1,Tidak bekerja
+37,Research & Development,2,Male,15,3,10,Bekerja
+36,Research & Development,1,Male,17,0,1,Tidak bekerja
+40,Research & Development,2,Female,16,0,1,Bekerja
+35,Sales,3,Female,14,7,10,Bekerja
+24,Research & Development,2,Female,15,2,4,Bekerja
+23,Research & Development,1,Male,22,0,1,Bekerja
+28,Research & Development,2,Male,19,3,8,Bekerja
+60,Sales,2,Male,14,2,2,Bekerja
+47,Research & Development,2,Male,19,10,19,Bekerja
+41,Human Resources,5,Male,15,6,21,Bekerja
+24,Research & Development,1,Male,22,3,4,Bekerja
+29,Research & Development,1,Female,14,3,4,Bekerja
+37,Research & Development,3,Male,11,0,1,Tidak bekerja
+35,Sales,3,Male,17,12,13,Bekerja
+29,Research & Development,1,Female,14,4,5,Bekerja
+55,Research & Development,2,Male,14,7,8,Bekerja
+30,Research & Development,2,Male,12,8,10,Bekerja
+42,Research & Development,2,Male,18,0,0,Bekerja
+29,Research & Development,2,Female,13,7,7,Bekerja
+26,Sales,2,Male,20,3,5,Bekerja
+29,Research & Development,1,Male,11,7,7,Tidak bekerja
+25,Research & Development,1,Male,13,2,2,Tidak bekerja
+38,Research & Development,1,Female,19,0,0,Bekerja
+37,Research & Development,1,Female,12,7,18,Bekerja
+36,Human Resources,1,Male,21,4,5,Bekerja
+41,Research & Development,1,Male,17,0,1,Tidak bekerja
+36,Sales,2,Female,16,4,5,Bekerja
+38,Research & Development,3,Female,13,12,15,Bekerja
+49,Research & Development,4,Female,19,11,15,Bekerja
+38,Research & Development,1,Female,17,0,0,Bekerja
+51,Sales,4,Female,14,6,20,Bekerja
+37,Research & Development,2,Male,13,7,7,Bekerja
+20,Research & Development,1,Female,18,0,1,Tidak bekerja
+45,Research & Development,1,Female,14,3,5,Bekerja
+24,Research & Development,1,Female,13,0,1,Tidak bekerja
+52,Research & Development,2,Male,12,9,10,Bekerja
+49,Research & Development,3,Male,24,2,5,Bekerja
+23,Research & Development,1,Male,11,4,5,Bekerja
+34,Sales,2,Male,14,14,15,Bekerja
+28,Research & Development,1,Male,14,0,1,Bekerja
+19,Sales,1,Male,19,0,0,Tidak bekerja
+46,Research & Development,5,Male,17,1,2,Bekerja
+24,Research & Development,2,Female,18,2,4,Bekerja
+22,Research & Development,1,Male,20,2,2,Bekerja
+43,Human Resources,1,Male,13,7,9,Bekerja
+42,Research & Development,5,Male,13,7,24,Bekerja
+33,Research & Development,1,Female,11,7,8,Bekerja
+37,Research & Development,2,Male,18,5,7,Bekerja
+39,Research & Development,5,Male,14,8,21,Bekerja
+36,Sales,2,Female,16,7,15,Bekerja
+50,Research & Development,3,Male,15,3,4,Bekerja
+33,Research & Development,3,Male,11,9,13,Bekerja
+43,Research & Development,2,Male,13,7,8,Bekerja
+31,Research & Development,1,Female,12,2,7,Bekerja
+30,Research & Development,2,Female,13,8,10,Bekerja
+35,Sales,2,Male,24,9,11,Bekerja
+36,Sales,1,Male,23,3,5,Tidak bekerja
+53,Research & Development,3,Female,16,7,33,Bekerja
+54,Research & Development,2,Female,19,2,5,Bekerja
+40,Research & Development,1,Male,14,4,5,Bekerja
+27,Research & Development,2,Female,18,2,3,Bekerja
+42,Research & Development,4,Male,17,6,22,Bekerja
+36,Research & Development,2,Male,14,0,1,Tidak bekerja
+29,Research & Development,2,Male,11,0,6,Bekerja
+37,Research & Development,3,Male,15,7,10,Bekerja
+32,Research & Development,1,Male,12,0,1,Bekerja
+40,Research & Development,5,Male,19,7,21,Bekerja
+58,Research & Development,5,Male,12,15,31,Tidak bekerja
+38,Research & Development,1,Female,14,1,6,Bekerja
+40,Research & Development,5,Male,14,7,20,Bekerja
+38,Research & Development,3,Female,19,4,5,Bekerja
+30,Sales,3,Female,12,9,10,Bekerja
+33,Sales,2,Female,15,2,3,Tidak bekerja
+35,Research & Development,2,Male,11,15,16,Bekerja
+31,Research & Development,2,Male,12,4,5,Bekerja
+30,Research & Development,2,Female,18,4,8,Bekerja
+32,Sales,2,Male,15,0,0,Bekerja
+41,Research & Development,1,Male,20,3,5,Bekerja
+59,Research & Development,1,Female,20,0,1,Bekerja
+49,Research & Development,2,Male,20,3,4,Tidak bekerja
+33,Research & Development,2,Male,17,0,0,Bekerja
+28,Sales,2,Male,11,3,5,Bekerja
+36,Research & Development,3,Female,12,7,7,Bekerja
+50,Sales,3,Male,13,2,3,Bekerja
+28,Research & Development,1,Male,14,2,4,Tidak bekerja
+26,Research & Development,1,Male,22,4,6,Tidak bekerja
+31,Sales,2,Female,13,8,9,Bekerja
+40,Sales,3,Male,15,0,1,Bekerja
+27,Research & Development,1,Female,14,2,2,Bekerja
+50,Research & Development,5,Female,19,3,8,Bekerja
+32,Research & Development,2,Male,13,5,9,Bekerja
+33,Research & Development,3,Male,12,6,7,Tidak bekerja
+46,Research & Development,3,Female,11,2,2,Bekerja
+33,Research & Development,1,Male,20,2,2,Tidak bekerja
+37,Research & Development,3,Male,13,2,5,Bekerja
+23,Research & Development,1,Male,16,2,2,Bekerja
+26,Sales,2,Male,12,0,0,Bekerja
+25,Research & Development,1,Male,19,2,2,Bekerja
+50,Sales,5,Female,11,0,7,Bekerja
+38,Sales,2,Male,11,8,9,Bekerja
+58,Research & Development,3,Female,14,9,10,Tidak bekerja
+31,Research & Development,1,Male,12,2,4,Bekerja
+26,Research & Development,1,Female,13,3,5,Bekerja
+30,Research & Development,1,Male,23,0,1,Tidak bekerja
+56,Research & Development,1,Male,11,9,10,Bekerja
+33,Sales,2,Male,14,3,4,Bekerja
+46,Research & Development,2,Female,22,7,9,Bekerja
+59,Sales,3,Male,14,4,6,Bekerja
+45,Research & Development,4,Male,14,7,20,Bekerja
+29,Research & Development,1,Male,13,8,11,Bekerja
+32,Sales,3,Female,19,10,14,Bekerja
+58,Research & Development,3,Female,13,0,6,Bekerja
+28,Research & Development,1,Male,11,2,5,Bekerja
+30,Sales,2,Male,18,3,10,Bekerja
+46,Sales,2,Male,21,6,9,Bekerja
+31,Sales,1,Female,11,2,3,Tidak bekerja
+31,Research & Development,1,Female,12,0,1,Tidak bekerja
+22,Research & Development,1,Male,24,2,2,Bekerja
+22,Research & Development,1,Male,13,0,1,Bekerja
+36,Research & Development,1,Female,14,1,1,Bekerja
+43,Research & Development,1,Female,19,7,8,Bekerja
+35,Research & Development,1,Female,19,2,10,Tidak bekerja
+60,Sales,3,Female,19,13,18,Bekerja
+34,Sales,2,Female,12,2,3,Bekerja
+39,Research & Development,1,Male,21,2,2,Tidak bekerja
+38,Sales,3,Male,14,7,8,Bekerja
+31,Sales,1,Male,19,2,2,Bekerja
+43,Research & Development,3,Male,17,9,10,Bekerja
+33,Research & Development,1,Male,13,3,4,Tidak bekerja
+25,Sales,2,Female,11,4,5,Bekerja
+49,Research & Development,2,Male,14,2,3,Bekerja
+33,Research & Development,1,Male,12,1,1,Bekerja
+45,Human Resources,1,Male,16,3,6,Bekerja
+43,Research & Development,4,Male,11,10,25,Bekerja
+34,Research & Development,4,Male,14,8,14,Bekerja
+35,Research & Development,2,Female,16,2,5,Bekerja
+34,Sales,1,Female,19,1,1,Bekerja
+23,Research & Development,1,Male,18,2,2,Bekerja
+37,Research & Development,1,Female,13,3,5,Bekerja
+35,Sales,1,Female,16,2,3,Bekerja
+36,Sales,3,Male,11,7,16,Tidak bekerja
+23,Research & Development,1,Male,12,2,4,Bekerja
+25,Sales,2,Female,23,5,6,Bekerja
+40,Sales,5,Male,14,8,21,Bekerja
+43,Research & Development,1,Male,14,4,5,Bekerja
+41,Research & Development,1,Female,13,7,7,Tidak bekerja
+25,Sales,2,Male,14,3,4,Bekerja
+34,Research & Development,1,Male,13,0,1,Bekerja
+52,Research & Development,4,Female,13,2,5,Bekerja
+36,Sales,3,Male,11,9,13,Bekerja
+45,Research & Development,2,Female,13,8,9,Bekerja
+28,Research & Development,1,Male,11,0,0,Bekerja
+26,Research & Development,2,Male,12,7,8,Bekerja
+56,Research & Development,1,Female,19,4,5,Bekerja
+34,Research & Development,1,Male,17,3,5,Bekerja
+38,Sales,1,Male,19,2,2,Bekerja
+36,Research & Development,1,Male,11,13,15,Bekerja
+39,Research & Development,2,Male,13,7,7,Bekerja
+26,Research & Development,1,Male,16,3,5,Bekerja
+43,Research & Development,1,Male,13,2,3,Bekerja
+23,Research & Development,1,Male,13,2,5,Bekerja
+29,Sales,3,Female,13,8,11,Tidak bekerja
+27,Research & Development,1,Male,16,2,5,Bekerja
+31,Sales,1,Female,12,0,1,Tidak bekerja
+43,Sales,2,Male,18,2,2,Bekerja
+45,Sales,2,Female,22,7,8,Bekerja
+36,Sales,3,Male,15,7,10,Bekerja
+40,Research & Development,1,Male,22,2,4,Bekerja
+22,Research & Development,1,Male,14,1,2,Bekerja
+26,Research & Development,1,Male,22,7,8,Bekerja
+31,Research & Development,3,Female,14,9,11,Bekerja
+28,Human Resources,1,Male,15,2,3,Bekerja
+52,Sales,3,Male,19,7,8,Tidak bekerja
+28,Research & Development,1,Male,23,2,5,Bekerja
+37,Research & Development,1,Male,15,4,6,Bekerja
+36,Sales,2,Female,13,0,1,Bekerja
+24,Human Resources,1,Male,11,0,1,Bekerja
+41,Research & Development,1,Male,22,3,5,Bekerja
+35,Research & Development,1,Male,11,2,2,Bekerja
+36,Research & Development,2,Male,17,2,5,Bekerja
+42,Research & Development,2,Male,19,0,1,Bekerja
+44,Research & Development,1,Male,13,0,0,Bekerja
+28,Sales,1,Male,22,0,1,Bekerja
+33,Research & Development,1,Female,11,4,5,Bekerja
+31,Research & Development,2,Male,12,5,6,Bekerja
+29,Research & Development,1,Male,18,9,10,Bekerja
+19,Research & Development,1,Male,22,0,1,Tidak bekerja
+37,Research & Development,1,Male,15,0,0,Tidak bekerja
+45,Research & Development,1,Female,14,0,1,Bekerja
+50,Research & Development,1,Male,18,0,1,Bekerja
+51,Research & Development,3,Female,20,12,13,Bekerja
+42,Research & Development,2,Female,16,0,1,Bekerja
+32,Sales,2,Male,16,8,11,Bekerja
+32,Sales,2,Male,17,7,8,Bekerja
+32,Research & Development,1,Male,13,0,1,Bekerja
+35,Research & Development,1,Female,12,0,1,Bekerja
+33,Sales,3,Male,14,8,9,Bekerja
+47,Sales,2,Female,17,0,9,Bekerja
+31,Research & Development,1,Male,14,2,5,Bekerja
+20,Research & Development,1,Female,15,0,1,Tidak bekerja
+29,Research & Development,1,Female,16,2,2,Tidak bekerja
+35,Sales,2,Male,11,2,5,Bekerja
+29,Research & Development,1,Male,16,2,3,Bekerja
+24,Sales,2,Female,14,2,2,Tidak bekerja
+32,Sales,1,Female,11,3,4,Bekerja
+28,Research & Development,2,Female,11,8,9,Bekerja
+27,Research & Development,1,Male,13,2,4,Bekerja
+35,Research & Development,3,Female,18,7,7,Bekerja
+34,Research & Development,2,Female,14,0,0,Bekerja
+36,Research & Development,2,Male,11,2,3,Bekerja
+52,Research & Development,5,Male,14,18,33,Bekerja
+38,Sales,2,Male,15,13,15,Bekerja
+35,Research & Development,2,Female,11,2,6,Bekerja
+44,Research & Development,2,Male,13,2,4,Bekerja
+46,Sales,4,Female,12,12,13,Bekerja
+22,Research & Development,2,Female,19,2,3,Tidak bekerja
+40,Research & Development,1,Female,20,2,4,Bekerja
+33,Sales,2,Female,17,2,5,Tidak bekerja
+50,Human Resources,5,Male,11,5,32,Bekerja
+50,Research & Development,4,Female,22,2,2,Bekerja
+57,Research & Development,2,Male,11,2,3,Bekerja
+37,Research & Development,3,Female,25,11,16,Bekerja
+35,Sales,2,Female,18,2,4,Tidak bekerja
+41,Research & Development,4,Female,23,7,20,Bekerja
+30,Research & Development,3,Female,23,1,9,Bekerja
+37,Sales,2,Male,14,3,6,Bekerja
+31,Sales,2,Male,22,7,7,Bekerja
+52,Sales,5,Male,18,7,33,Bekerja
+31,Sales,2,Male,19,2,5,Bekerja
+33,Research & Development,2,Female,14,0,5,Bekerja
+44,Research & Development,5,Female,14,7,22,Bekerja
+33,Sales,2,Male,13,7,7,Bekerja
+34,Research & Development,2,Male,13,7,8,Bekerja
+18,Sales,1,Female,12,0,0,Bekerja
+51,Research & Development,1,Male,23,2,4,Bekerja
+50,Research & Development,5,Male,14,4,10,Bekerja
+29,Research & Development,1,Female,13,2,3,Bekerja
+46,Sales,5,Female,14,4,11,Bekerja
+22,Research & Development,1,Male,15,3,4,Bekerja
+29,Sales,3,Female,14,10,11,Bekerja
+22,Research & Development,1,Male,16,2,4,Bekerja
+45,Sales,2,Female,15,3,5,Bekerja
+25,Human Resources,1,Female,14,0,2,Bekerja
+46,Sales,4,Female,23,15,26,Bekerja
+35,Research & Development,1,Male,18,0,1,Bekerja
+29,Human Resources,3,Male,13,9,10,Bekerja
+46,Sales,4,Male,15,0,26,Bekerja
+38,Research & Development,2,Female,11,3,10,Bekerja
+41,Research & Development,1,Male,12,8,9,Bekerja
+27,Human Resources,1,Female,12,0,1,Bekerja
+40,Research & Development,2,Male,11,7,8,Bekerja
+37,Research & Development,2,Male,17,8,10,Bekerja
+39,Sales,2,Female,19,2,3,Bekerja
+31,Sales,3,Female,19,8,10,Bekerja
+34,Sales,3,Male,14,9,10,Bekerja
+50,Sales,3,Female,11,2,2,Bekerja
+51,Human Resources,4,Male,11,9,33,Bekerja
+31,Research & Development,3,Female,24,9,10,Bekerja
+45,Research & Development,2,Male,18,9,17,Bekerja
+52,Research & Development,1,Male,18,3,4,Bekerja
+58,Research & Development,3,Female,12,10,40,Tidak bekerja
+30,Research & Development,1,Female,11,2,5,Tidak bekerja
+39,Research & Development,3,Female,18,0,2,Bekerja
+29,Sales,2,Male,19,0,0,Bekerja
+44,Research & Development,3,Female,14,6,22,Bekerja
+36,Research & Development,2,Male,13,5,6,Bekerja
+34,Sales,2,Female,23,9,15,Bekerja
+31,Research & Development,2,Female,20,4,5,Bekerja
+31,Research & Development,1,Male,16,2,2,Bekerja
+21,Research & Development,1,Female,11,2,2,Bekerja
+36,Sales,3,Female,14,7,9,Bekerja
+25,Research & Development,2,Female,12,2,4,Bekerja
+46,Research & Development,2,Female,14,0,1,Bekerja
+29,Research & Development,1,Male,17,2,3,Bekerja
+44,Research & Development,1,Male,22,0,1,Tidak bekerja
+26,Sales,2,Male,17,7,8,Bekerja
+55,Research & Development,4,Male,15,7,9,Bekerja
+47,Sales,4,Male,11,5,23,Bekerja
+35,Research & Development,1,Male,12,0,1,Bekerja
+29,Research & Development,1,Male,14,2,2,Bekerja
+29,Research & Development,3,Female,12,7,8,Tidak bekerja
+34,Sales,3,Male,13,3,5,Bekerja
+32,Research & Development,2,Female,12,7,8,Bekerja
+41,Sales,1,Female,22,3,4,Tidak bekerja
+28,Research & Development,1,Male,17,2,2,Tidak bekerja
+35,Research & Development,2,Male,11,6,9,Bekerja
+29,Research & Development,2,Male,19,4,6,Bekerja
+28,Research & Development,1,Male,11,2,4,Bekerja
+45,Research & Development,2,Male,17,2,3,Bekerja
+42,Research & Development,2,Male,13,8,9,Bekerja
+29,Sales,2,Male,14,3,4,Bekerja
+26,Research & Development,1,Male,20,5,8,Bekerja
+59,Sales,3,Female,11,16,21,Bekerja
+31,Research & Development,1,Male,17,2,5,Bekerja
+18,Research & Development,1,Female,16,0,0,Bekerja
+52,Research & Development,3,Male,14,4,5,Bekerja
+44,Research & Development,2,Male,15,0,2,Bekerja
+38,Research & Development,3,Female,18,9,19,Bekerja
+30,Research & Development,1,Male,13,3,5,Bekerja
+39,Research & Development,4,Male,11,7,18,Tidak bekerja
+35,Research & Development,1,Male,14,4,5,Bekerja
+35,Research & Development,3,Female,19,8,11,Bekerja
+34,Research & Development,1,Male,17,0,0,Bekerja
+40,Research & Development,2,Female,12,4,7,Bekerja
+45,Research & Development,2,Female,19,7,10,Bekerja
+48,Sales,2,Female,14,7,8,Bekerja
+41,Research & Development,2,Male,16,0,1,Bekerja
+36,Research & Development,1,Male,11,3,4,Bekerja
+42,Research & Development,5,Male,11,6,22,Bekerja
+26,Research & Development,1,Male,18,0,1,Tidak bekerja
+28,Research & Development,2,Female,21,3,5,Bekerja
+42,Research & Development,1,Male,14,1,2,Bekerja
+41,Human Resources,5,Male,12,7,22,Bekerja
+30,Sales,2,Male,15,1,2,Bekerja
+30,Research & Development,2,Male,11,9,12,Bekerja
+19,Sales,1,Male,13,0,1,Tidak bekerja
+33,Research & Development,2,Male,13,3,5,Bekerja
+27,Research & Development,1,Female,19,1,1,Bekerja
+38,Sales,3,Male,12,10,16,Bekerja
+36,Sales,2,Male,13,7,7,Bekerja
+38,Research & Development,1,Female,11,4,5,Bekerja
+32,Research & Development,1,Female,22,4,5,Tidak bekerja
+39,Sales,2,Female,14,11,15,Bekerja
+33,Research & Development,1,Male,11,8,10,Tidak bekerja
+46,Research & Development,2,Female,14,7,10,Bekerja
+46,Sales,3,Female,19,2,3,Bekerja
+41,Research & Development,1,Male,13,13,18,Bekerja
+21,Sales,1,Male,11,2,2,Bekerja
+39,Human Resources,2,Female,15,3,8,Bekerja
+44,Human Resources,2,Male,11,7,10,Bekerja
+34,Sales,2,Male,13,2,5,Tidak bekerja
+34,Research & Development,3,Female,11,6,12,Bekerja
+39,Sales,4,Male,12,8,20,Bekerja
+29,Sales,2,Female,14,7,7,Bekerja
+37,Research & Development,1,Male,12,7,8,Bekerja
+35,Research & Development,1,Male,19,0,1,Bekerja
+46,Research & Development,3,Male,16,2,4,Bekerja
+47,Sales,2,Female,12,4,5,Tidak bekerja
+30,Research & Development,1,Male,12,4,5,Bekerja
+29,Research & Development,1,Female,22,5,7,Bekerja
+50,Research & Development,1,Male,11,8,20,Bekerja
+34,Sales,2,Female,20,5,6,Bekerja
+31,Research & Development,2,Male,15,2,10,Tidak bekerja
+48,Research & Development,2,Male,13,2,2,Bekerja
+31,Sales,2,Male,13,2,5,Bekerja
+49,Research & Development,4,Male,14,7,8,Bekerja
+43,Research & Development,2,Female,14,2,5,Bekerja
+34,Sales,2,Male,12,7,10,Bekerja
+60,Sales,2,Male,18,7,11,Bekerja
+52,Research & Development,1,Female,13,4,5,Bekerja
+25,Research & Development,1,Male,11,2,2,Bekerja
+46,Sales,5,Female,12,2,2,Bekerja
+24,Sales,1,Female,13,0,1,Bekerja
+29,Research & Development,1,Female,15,2,3,Bekerja
+41,Sales,2,Male,18,7,8,Tidak bekerja
+45,Research & Development,1,Male,21,2,2,Bekerja
+30,Sales,2,Female,14,2,3,Bekerja
+33,Sales,2,Female,12,7,10,Bekerja
+33,Human Resources,1,Male,13,4,5,Bekerja
+42,Research & Development,1,Female,13,9,12,Bekerja
+43,Sales,3,Female,14,7,21,Bekerja
+39,Research & Development,4,Female,16,6,21,Bekerja
+39,Research & Development,1,Female,14,2,3,Bekerja
+35,Sales,3,Female,11,2,13,Bekerja
+40,Research & Development,3,Female,15,2,4,Bekerja
+26,Research & Development,1,Male,13,2,3,Tidak bekerja
+40,Research & Development,3,Female,13,15,18,Bekerja
+51,Sales,2,Female,11,7,7,Bekerja
+45,Research & Development,3,Male,12,8,10,Bekerja
+40,Research & Development,2,Female,20,11,12,Bekerja
+32,Sales,2,Male,15,7,10,Bekerja
+28,Research & Development,1,Female,18,2,2,Bekerja
+31,Sales,3,Female,14,2,3,Bekerja
+58,Research & Development,4,Male,14,2,2,Bekerja
+40,Sales,5,Female,14,15,20,Bekerja
+45,Research & Development,3,Male,18,9,24,Bekerja
+44,Research & Development,5,Male,12,2,2,Bekerja
+50,Research & Development,4,Female,11,2,3,Bekerja
+45,Research & Development,2,Male,15,8,9,Bekerja
+35,Sales,3,Male,22,8,9,Bekerja
+48,Research & Development,3,Male,11,9,10,Bekerja
+40,Research & Development,2,Male,17,8,9,Bekerja
+42,Human Resources,1,Male,11,2,3,Bekerja
+48,Research & Development,4,Female,11,17,22,Bekerja
+21,Research & Development,1,Male,17,2,3,Bekerja
+38,Research & Development,1,Male,13,0,1,Bekerja
+35,Research & Development,1,Female,15,2,2,Bekerja
+28,Research & Development,1,Male,13,2,3,Tidak bekerja
+23,Sales,1,Male,19,0,1,Bekerja
+53,Sales,4,Male,13,13,17,Bekerja
+35,Research & Development,3,Male,11,2,2,Bekerja
+36,Research & Development,1,Male,12,7,8,Bekerja
+36,Research & Development,3,Female,13,14,17,Bekerja
+59,Research & Development,4,Female,13,3,5,Bekerja
+33,Sales,2,Male,14,2,6,Bekerja
+40,Research & Development,1,Female,17,3,4,Bekerja
+45,Research & Development,2,Female,14,7,10,Bekerja
+32,Research & Development,1,Male,14,2,4,Bekerja
+49,Sales,4,Male,17,8,9,Bekerja
+36,Research & Development,1,Female,12,0,1,Bekerja
+23,Sales,1,Male,21,2,3,Bekerja
+30,Research & Development,1,Female,16,7,9,Bekerja
+53,Research & Development,4,Male,19,1,5,Bekerja
+53,Sales,4,Male,14,0,2,Bekerja
+58,Sales,4,Male,22,9,16,Bekerja
+44,Human Resources,1,Female,18,2,2,Bekerja
+37,Research & Development,1,Female,11,4,8,Bekerja
+31,Research & Development,3,Female,11,8,10,Tidak bekerja
+34,Research & Development,1,Male,23,2,5,Bekerja
+29,Research & Development,3,Female,11,9,10,Bekerja
+35,Research & Development,1,Female,12,3,4,Bekerja
+26,Research & Development,1,Male,14,2,3,Tidak bekerja
+20,Sales,1,Female,13,2,2,Tidak bekerja
+31,Sales,2,Male,13,5,6,Bekerja
+33,Human Resources,1,Male,11,3,4,Bekerja
+25,Research & Development,1,Male,11,2,3,Bekerja
+34,Research & Development,3,Female,14,7,8,Bekerja
+32,Sales,3,Male,13,3,4,Bekerja
+33,Research & Development,3,Female,12,14,15,Bekerja
+45,Research & Development,3,Male,18,1,3,Bekerja
+40,Research & Development,2,Female,13,1,1,Bekerja
+31,Research & Development,2,Male,19,4,9,Bekerja
+22,Research & Development,1,Female,13,1,2,Bekerja
+38,Research & Development,2,Male,19,0,1,Tidak bekerja
+35,Research & Development,2,Male,19,7,10,Bekerja
+43,Research & Development,4,Male,14,0,1,Bekerja
+29,Research & Development,1,Male,18,0,1,Bekerja
+48,Sales,3,Female,21,0,0,Bekerja
+18,Research & Development,1,Male,15,0,0,Bekerja
+36,Research & Development,2,Male,20,4,5,Bekerja
+35,Research & Development,3,Male,13,6,16,Bekerja
+28,Research & Development,1,Male,12,2,2,Bekerja
+23,Research & Development,1,Female,13,2,3,Bekerja
+29,Research & Development,1,Male,14,2,3,Bekerja
+48,Research & Development,4,Female,11,2,3,Bekerja
+29,Human Resources,1,Male,15,2,2,Bekerja
+40,Research & Development,5,Female,14,8,20,Bekerja
+35,Research & Development,2,Female,11,2,3,Bekerja
+26,Research & Development,1,Male,15,2,3,Bekerja
+54,Research & Development,4,Female,25,8,10,Bekerja
+25,Sales,2,Male,18,3,5,Bekerja
+29,Research & Development,1,Female,13,7,7,Tidak bekerja
+55,Research & Development,3,Male,18,2,3,Bekerja
+35,Sales,2,Male,18,7,10,Bekerja
+31,Research & Development,3,Male,25,8,13,Bekerja
+40,Sales,2,Female,14,8,11,Bekerja
+38,Sales,1,Male,14,0,1,Bekerja
+36,Research & Development,2,Male,20,2,3,Bekerja
+36,Research & Development,2,Female,13,2,4,Bekerja
+38,Sales,2,Female,15,7,7,Bekerja
+56,Research & Development,1,Female,18,2,2,Bekerja
+59,Sales,2,Female,11,3,4,Bekerja
+33,Research & Development,2,Male,12,14,15,Bekerja
+27,Research & Development,1,Female,12,3,4,Bekerja
+35,Sales,3,Male,13,9,10,Bekerja
+28,Sales,2,Male,14,2,4,Bekerja
+29,Research & Development,1,Male,13,7,9,Bekerja
+34,Research & Development,1,Male,14,0,1,Bekerja
+42,Research & Development,5,Male,22,0,1,Bekerja
+42,Research & Development,2,Female,13,2,3,Bekerja
+46,Research & Development,3,Male,14,8,9,Bekerja
+34,Research & Development,2,Female,15,0,1,Bekerja
+41,Sales,3,Male,16,7,10,Bekerja
+26,Human Resources,1,Female,11,7,7,Tidak bekerja
+31,Research & Development,1,Male,13,2,4,Bekerja
+21,Sales,1,Male,13,0,1,Bekerja
+31,Research & Development,1,Male,12,2,2,Tidak bekerja
+19,Human Resources,1,Male,12,0,1,Tidak bekerja
+32,Research & Development,2,Female,12,3,5,Bekerja
+50,Sales,2,Female,12,7,18,Bekerja
+36,Research & Development,2,Male,20,9,11,Bekerja
+44,Sales,5,Male,11,9,22,Bekerja
+25,Sales,2,Male,22,2,3,Bekerja
+33,Research & Development,1,Female,18,2,3,Bekerja
+27,Research & Development,1,Male,14,7,9,Bekerja
+29,Research & Development,2,Male,15,7,10,Bekerja
+50,Research & Development,1,Male,15,2,3,Bekerja
+25,Research & Development,1,Female,18,2,2,Bekerja
+35,Human Resources,1,Male,17,4,5,Bekerja
+40,Sales,2,Female,15,4,5,Bekerja
+33,Sales,1,Female,13,0,1,Tidak bekerja
+31,Sales,2,Female,11,0,10,Bekerja
+57,Sales,4,Male,12,0,1,Bekerja
+39,Sales,2,Male,14,0,1,Tidak bekerja
+24,Research & Development,1,Male,11,0,0,Bekerja
+33,Research & Development,1,Male,19,8,10,Bekerja
+20,Sales,1,Female,14,2,2,Tidak bekerja
+58,Research & Development,2,Male,13,3,5,Bekerja
+28,Sales,1,Female,19,0,1,Bekerja
+38,Research & Development,3,Female,12,16,18,Bekerja
+51,Research & Development,2,Male,18,1,4,Bekerja
+33,Research & Development,4,Female,19,1,6,Bekerja
+29,Sales,2,Male,13,0,10,Bekerja
+30,Research & Development,1,Male,12,0,10,Bekerja
+38,Sales,3,Male,16,0,1,Bekerja
+39,Sales,2,Male,18,1,2,Bekerja
+37,Research & Development,3,Female,18,2,5,Bekerja
+37,Research & Development,1,Male,21,0,1,Bekerja
+33,Research & Development,1,Female,20,7,9,Tidak bekerja
+39,Research & Development,2,Male,11,7,8,Bekerja
+22,Research & Development,1,Male,16,2,2,Tidak bekerja
+30,Human Resources,1,Female,11,2,4,Bekerja
+28,Sales,2,Male,12,7,7,Bekerja
+52,Research & Development,2,Female,20,2,5,Bekerja
+40,Research & Development,3,Male,20,10,11,Bekerja
+24,Research & Development,1,Male,16,3,5,Bekerja
+35,Sales,2,Female,16,2,5,Bekerja
+47,Sales,1,Female,18,2,3,Bekerja
+54,Human Resources,4,Female,12,3,5,Bekerja
+36,Sales,1,Male,21,2,3,Bekerja
+40,Research & Development,2,Female,11,9,10,Bekerja
+32,Research & Development,1,Male,24,0,1,Tidak bekerja
+29,Research & Development,2,Male,13,7,10,Bekerja
+34,Sales,2,Male,21,8,10,Bekerja
+28,Research & Development,1,Male,11,2,3,Bekerja
+37,Human Resources,2,Male,13,0,10,Bekerja
+36,Research & Development,1,Male,21,8,11,Bekerja
+20,Sales,1,Female,19,2,2,Bekerja
+34,Human Resources,2,Male,11,9,10,Bekerja
+43,Research & Development,5,Female,13,12,16,Bekerja
+39,Research & Development,5,Male,15,9,21,Bekerja
+32,Research & Development,2,Female,18,1,5,Bekerja
+56,Research & Development,1,Female,18,4,5,Tidak bekerja
+44,Research & Development,1,Female,13,5,10,Bekerja
+49,Research & Development,3,Female,11,9,26,Bekerja
+42,Research & Development,1,Male,12,2,2,Tidak bekerja
+30,Sales,2,Male,19,3,4,Bekerja
+36,Sales,2,Female,13,9,10,Bekerja
+40,Research & Development,3,Male,11,8,9,Bekerja
+29,Research & Development,2,Male,17,0,7,Bekerja
+44,Research & Development,1,Male,14,2,5,Bekerja
+52,Research & Development,4,Female,22,8,9,Bekerja
+54,Research & Development,4,Female,19,7,20,Bekerja
+25,Research & Development,1,Male,15,7,7,Tidak bekerja
+35,Research & Development,2,Female,11,0,1,Bekerja
+27,Research & Development,1,Male,11,7,7,Bekerja
+55,Human Resources,5,Male,18,9,10,Bekerja
+29,Research & Development,2,Female,12,7,8,Bekerja
+22,Research & Development,1,Female,15,0,0,Bekerja
+38,Research & Development,2,Female,19,0,1,Bekerja
+33,Sales,2,Male,22,8,9,Bekerja
+25,Sales,1,Male,14,0,1,Tidak bekerja
+31,Research & Development,2,Female,12,10,13,Bekerja
+33,Sales,2,Male,13,2,2,Bekerja
+20,Sales,1,Male,11,2,2,Bekerja
+29,Sales,2,Female,14,0,6,Bekerja
+29,Sales,1,Female,15,1,3,Bekerja
+38,Human Resources,2,Male,11,3,6,Bekerja
+54,Research & Development,2,Female,12,3,4,Bekerja
+54,Research & Development,2,Female,11,3,5,Bekerja
+31,Research & Development,1,Male,22,2,3,Tidak bekerja
+53,Research & Development,4,Female,20,2,3,Bekerja
+47,Research & Development,1,Male,12,5,6,Bekerja
+36,Research & Development,2,Male,13,7,7,Bekerja
+41,Research & Development,1,Male,12,2,4,Bekerja
+29,Sales,2,Female,11,3,5,Tidak bekerja
+18,Sales,1,Male,14,0,0,Tidak bekerja
+32,Research & Development,2,Female,16,7,7,Bekerja
+33,Sales,2,Male,14,4,10,Bekerja
+42,Research & Development,3,Male,13,7,13,Bekerja
+30,Sales,3,Male,11,7,7,Bekerja
+54,Research & Development,4,Female,20,9,14,Bekerja
+49,Research & Development,5,Male,15,4,5,Bekerja
+42,Research & Development,5,Male,11,17,22,Bekerja
+58,Sales,4,Male,13,10,37,Bekerja
+37,Research & Development,2,Male,16,2,6,Bekerja
+39,Research & Development,3,Female,13,6,21,Bekerja
+26,Research & Development,1,Female,21,0,1,Bekerja
+24,Human Resources,1,Male,14,2,2,Bekerja
+34,Sales,3,Male,18,7,8,Bekerja
+31,Sales,2,Male,12,7,7,Bekerja
+45,Sales,2,Female,11,4,5,Bekerja
+26,Human Resources,1,Female,23,7,8,Bekerja
+28,Research & Development,1,Male,13,2,2,Tidak bekerja
+35,Sales,2,Female,16,4,5,Bekerja
+30,Research & Development,1,Male,15,3,5,Bekerja
+34,Research & Development,2,Male,11,2,3,Bekerja
+40,Research & Development,4,Male,11,7,19,Bekerja
+27,Research & Development,1,Male,11,3,5,Bekerja
+39,Research & Development,3,Male,15,7,7,Bekerja
+43,Sales,3,Male,13,0,1,Bekerja
+35,Research & Development,2,Male,19,1,1,Bekerja
+35,Sales,2,Male,15,7,7,Bekerja
+47,Research & Development,3,Male,23,14,17,Bekerja
+54,Research & Development,2,Female,11,0,1,Bekerja
+35,Sales,2,Male,14,2,2,Bekerja
+35,Sales,2,Male,16,3,5,Bekerja
+20,Sales,1,Male,17,1,2,Bekerja
+33,Research & Development,1,Male,13,9,10,Tidak bekerja
+36,Research & Development,2,Male,13,2,3,Bekerja
+41,Research & Development,5,Male,17,16,18,Bekerja
+56,Human Resources,5,Male,14,3,7,Bekerja
+36,Research & Development,2,Male,14,2,3,Bekerja
+27,Sales,2,Male,11,4,5,Bekerja
+44,Research & Development,2,Male,25,11,20,Bekerja
+30,Sales,2,Male,11,8,10,Bekerja
+22,Research & Development,1,Male,23,0,1,Bekerja
+34,Research & Development,1,Female,17,0,1,Bekerja
+34,Human Resources,1,Male,19,2,3,Bekerja
+45,Sales,2,Male,15,7,10,Bekerja
+34,Sales,2,Female,15,2,3,Bekerja
+18,Research & Development,1,Female,15,0,0,Bekerja
+33,Research & Development,1,Female,13,2,2,Bekerja
+36,Research & Development,1,Female,16,13,17,Tidak bekerja
+33,Research & Development,2,Female,13,7,9,Bekerja
+34,Research & Development,1,Female,16,2,4,Bekerja
+55,Research & Development,4,Female,13,4,5,Bekerja
+25,Research & Development,1,Male,11,2,3,Bekerja
+30,Sales,3,Female,11,8,9,Bekerja
+28,Research & Development,2,Male,12,0,10,Bekerja
+42,Sales,5,Male,13,0,1,Bekerja
+48,Research & Development,3,Male,13,0,1,Tidak bekerja
+35,Human Resources,3,Female,16,0,9,Bekerja
+41,Research & Development,1,Male,11,0,1,Bekerja
+28,Sales,2,Male,14,2,4,Bekerja
+36,Sales,2,Male,13,2,2,Bekerja
+34,Sales,3,Male,21,8,14,Bekerja
+35,Research & Development,1,Male,20,2,3,Bekerja
+37,Research & Development,1,Female,12,12,17,Bekerja
+42,Research & Development,1,Male,22,3,5,Bekerja
+40,Research & Development,2,Female,22,0,1,Bekerja
+41,Research & Development,5,Female,22,16,21,Bekerja
+24,Sales,2,Female,12,2,5,Bekerja
+30,Research & Development,2,Female,23,8,12,Bekerja
+36,Sales,2,Female,15,7,13,Bekerja
+36,Sales,3,Male,13,9,10,Bekerja
+53,Research & Development,5,Female,18,7,7,Bekerja
+26,Research & Development,1,Male,12,3,4,Bekerja
+30,Sales,3,Male,12,2,4,Bekerja
+27,Research & Development,1,Male,12,2,2,Bekerja
+53,Sales,3,Female,18,2,5,Bekerja
+52,Research & Development,3,Male,19,6,8,Bekerja
+29,Sales,1,Male,17,0,1,Bekerja
+29,Sales,2,Male,14,2,3,Bekerja
+42,Research & Development,1,Female,16,2,5,Bekerja
+40,Research & Development,1,Male,19,0,1,Bekerja
+30,Sales,1,Male,14,2,3,Bekerja
+35,Sales,3,Male,15,9,11,Bekerja
+46,Sales,2,Male,15,2,2,Bekerja
+22,Research & Development,1,Female,17,0,1,Bekerja
+45,Research & Development,1,Male,20,4,5,Bekerja
+35,Research & Development,2,Male,13,0,1,Tidak bekerja
+49,Research & Development,2,Male,15,7,7,Bekerja
+26,Sales,2,Male,17,3,4,Tidak bekerja
+28,Research & Development,1,Male,14,3,5,Bekerja
+32,Research & Development,1,Male,13,7,7,Bekerja
+30,Research & Development,1,Male,25,7,10,Bekerja
+53,Research & Development,4,Male,16,3,5,Bekerja
+31,Research & Development,2,Male,21,0,9,Bekerja
+27,Research & Development,2,Male,19,2,2,Bekerja
+46,Sales,3,Male,16,8,9,Tidak bekerja
+46,Research & Development,4,Male,13,2,3,Bekerja
+18,Research & Development,1,Male,13,0,0,Tidak bekerja
+26,Research & Development,1,Female,14,7,8,Tidak bekerja
+28,Research & Development,1,Male,11,3,5,Bekerja
+25,Sales,1,Male,12,2,3,Tidak bekerja
+48,Sales,2,Male,11,2,2,Bekerja
+39,Research & Development,3,Male,21,3,4,Bekerja
+44,Research & Development,1,Male,24,2,3,Bekerja
+31,Research & Development,4,Female,11,2,3,Bekerja
+33,Sales,2,Male,13,4,5,Bekerja
+30,Sales,2,Female,12,2,2,Bekerja
+37,Research & Development,2,Female,12,5,6,Bekerja
+29,Research & Development,1,Male,19,5,6,Bekerja
+32,Research & Development,2,Male,14,5,6,Bekerja
+24,Research & Development,1,Female,16,3,6,Tidak bekerja
+51,Sales,2,Male,22,7,10,Bekerja
+45,Research & Development,1,Female,19,2,3,Bekerja
+35,Research & Development,1,Male,16,4,5,Bekerja
+36,Research & Development,3,Male,13,8,12,Bekerja
+44,Research & Development,3,Female,11,7,10,Tidak bekerja
+40,Research & Development,2,Female,24,7,8,Bekerja
+34,Research & Development,1,Male,12,9,10,Bekerja
+56,Research & Development,1,Female,22,2,3,Bekerja
+40,Research & Development,1,Male,14,2,4,Bekerja
+33,Research & Development,1,Male,11,1,1,Bekerja
+55,Research & Development,4,Male,15,9,33,Bekerja
+46,Sales,4,Male,12,9,12,Bekerja
+27,Sales,2,Male,13,4,5,Bekerja
+45,Research & Development,5,Female,22,0,0,Bekerja
+55,Research & Development,4,Male,13,7,7,Bekerja
+27,Sales,1,Female,14,0,1,Bekerja
+34,Sales,2,Female,12,2,4,Bekerja
+28,Sales,2,Female,20,7,8,Bekerja
+42,Sales,2,Female,17,4,5,Bekerja
+54,Research & Development,2,Female,11,3,4,Bekerja
+29,Research & Development,1,Male,14,2,6,Tidak bekerja
+32,Research & Development,1,Female,14,1,4,Bekerja
+29,Research & Development,1,Female,18,4,5,Bekerja
+47,Sales,2,Male,12,7,7,Bekerja
+32,Research & Development,1,Female,20,2,2,Bekerja
+24,Sales,1,Female,16,3,5,Tidak bekerja
+34,Research & Development,2,Female,11,11,14,Bekerja
+37,Research & Development,3,Female,17,5,6,Bekerja
+32,Sales,2,Male,18,2,3,Bekerja
+27,Sales,2,Female,18,7,8,Bekerja
+35,Research & Development,1,Male,19,0,3,Bekerja
+42,Research & Development,1,Female,11,6,9,Bekerja
+32,Research & Development,3,Male,25,2,5,Bekerja
+38,Sales,2,Female,20,7,7,Bekerja
+35,Sales,2,Female,11,8,10,Bekerja
+49,Research & Development,4,Female,12,1,7,Bekerja
+43,Sales,2,Male,17,9,10,Bekerja
+34,Sales,2,Male,11,1,15,Bekerja
+32,Research & Development,1,Male,14,7,7,Bekerja
+40,Sales,3,Male,21,13,18,Bekerja
+38,Research & Development,1,Male,23,0,1,Bekerja
+27,Research & Development,1,Male,11,0,0,Bekerja
+31,Sales,2,Male,11,7,10,Bekerja
+38,Sales,2,Male,18,7,8,Bekerja
+47,Research & Development,5,Male,11,2,3,Bekerja
+38,Research & Development,2,Male,18,7,7,Bekerja
+30,Research & Development,1,Female,14,4,5,Bekerja
+28,Research & Development,1,Male,14,1,3,Bekerja
+27,Research & Development,1,Female,12,3,5,Bekerja
+46,Human Resources,1,Female,12,6,7,Bekerja
+40,Sales,4,Female,16,0,1,Tidak bekerja
+55,Research & Development,5,Female,14,9,19,Bekerja
+26,Research & Development,1,Female,22,2,3,Bekerja
+35,Research & Development,1,Male,13,2,2,Bekerja
+42,Research & Development,2,Female,13,2,10,Bekerja
+40,Sales,2,Female,12,1,5,Bekerja
+19,Research & Development,1,Female,14,0,1,Bekerja
+31,Research & Development,3,Female,20,7,11,Bekerja
+39,Research & Development,1,Female,23,0,1,Tidak bekerja
+31,Research & Development,2,Male,11,8,10,Bekerja
+49,Research & Development,3,Male,14,7,8,Bekerja
+20,Research & Development,1,Female,13,0,1,Bekerja
+32,Sales,2,Male,14,8,13,Bekerja
+36,Sales,3,Male,14,3,10,Bekerja
+43,Sales,4,Male,12,12,25,Bekerja
+26,Research & Development,1,Female,14,2,2,Bekerja
+27,Sales,1,Male,11,3,4,Tidak bekerja
+42,Research & Development,1,Male,17,2,2,Bekerja
+34,Sales,2,Male,18,9,13,Bekerja
+55,Sales,4,Male,17,7,19,Tidak bekerja
+42,Research & Development,2,Female,13,3,5,Bekerja
+50,Sales,2,Male,12,3,6,Bekerja
+33,Sales,2,Female,17,2,3,Bekerja
+30,Research & Development,1,Male,22,0,1,Bekerja
+35,Research & Development,1,Male,12,0,8,Bekerja
+42,Sales,2,Male,13,4,6,Bekerja
+40,Research & Development,1,Male,14,1,1,Bekerja
+34,Sales,2,Male,22,5,6,Bekerja
+50,Research & Development,4,Male,15,10,27,Bekerja
+45,Research & Development,1,Male,13,5,6,Bekerja
+21,Sales,1,Female,15,0,1,Tidak bekerja
+37,Research & Development,1,Female,14,1,3,Bekerja
+33,Sales,2,Male,14,7,7,Bekerja
+31,Research & Development,1,Female,11,0,1,Bekerja
+29,Research & Development,1,Male,24,0,1,Bekerja
+47,Research & Development,4,Female,11,14,26,Bekerja
+30,Sales,1,Male,18,0,1,Tidak bekerja
+27,Research & Development,3,Female,11,7,9,Bekerja
+54,Research & Development,2,Female,15,1,7,Bekerja
+50,Research & Development,4,Male,11,6,31,Bekerja
+29,Research & Development,1,Female,11,0,1,Tidak bekerja
+36,Sales,2,Female,13,2,3,Bekerja
+45,Research & Development,3,Male,17,0,1,Bekerja
+50,Sales,2,Male,14,3,4,Tidak bekerja
+39,Research & Development,5,Male,13,0,6,Bekerja
+27,Sales,2,Male,14,7,7,Bekerja
+33,Research & Development,2,Female,13,5,6,Bekerja
+46,Research & Development,2,Male,11,3,6,Bekerja
+27,Research & Development,1,Female,14,4,5,Bekerja
+55,Research & Development,5,Male,12,0,1,Bekerja
+54,Human Resources,3,Male,15,7,9,Bekerja
+47,Sales,2,Female,22,6,7,Bekerja
+33,Sales,2,Male,12,0,5,Bekerja
+35,Research & Development,3,Female,20,14,17,Bekerja
+39,Research & Development,2,Male,15,4,5,Bekerja
+38,Research & Development,2,Male,14,2,2,Bekerja
+55,Sales,5,Male,21,6,36,Bekerja
+54,Sales,3,Female,11,4,9,Bekerja
+37,Research & Development,2,Male,12,0,1,Bekerja
+20,Research & Development,1,Male,12,2,2,Bekerja
+40,Research & Development,2,Male,14,0,1,Bekerja
+51,Sales,5,Male,24,10,29,Bekerja
+34,Research & Development,2,Male,24,7,9,Tidak bekerja
+34,Research & Development,1,Female,17,4,5,Bekerja
+42,Research & Development,3,Male,21,9,10,Bekerja
+35,Research & Development,2,Male,14,7,7,Bekerja
+29,Sales,1,Female,13,2,2,Bekerja
+29,Research & Development,1,Female,13,0,1,Bekerja
+30,Research & Development,1,Male,13,0,1,Bekerja
+43,Research & Development,1,Male,16,0,1,Bekerja
+50,Research & Development,5,Female,15,4,5,Bekerja
+29,Research & Development,2,Male,12,2,3,Bekerja
+31,Research & Development,1,Male,17,1,1,Bekerja
+38,Human Resources,1,Male,13,10,11,Bekerja
+41,Research & Development,2,Female,14,2,6,Bekerja
+36,Research & Development,2,Female,12,2,3,Bekerja
+41,Research & Development,4,Male,13,6,7,Bekerja
+52,Research & Development,4,Male,15,8,9,Bekerja
+40,Research & Development,2,Male,13,8,9,Bekerja
+49,Research & Development,5,Female,11,2,3,Bekerja
+27,Sales,2,Female,11,2,6,Bekerja
+38,Research & Development,1,Male,11,2,3,Bekerja
+51,Sales,3,Male,11,2,4,Bekerja
+40,Research & Development,1,Male,14,1,3,Bekerja
+29,Research & Development,1,Female,13,8,10,Bekerja
+40,Sales,3,Male,12,0,1,Bekerja
+51,Research & Development,3,Female,11,2,2,Bekerja
+34,Research & Development,2,Male,14,2,8,Bekerja
+30,Research & Development,2,Female,20,4,5,Bekerja
+49,Sales,2,Male,14,6,9,Bekerja
+29,Research & Development,2,Male,12,2,3,Bekerja
+35,Sales,3,Male,13,8,10,Bekerja
+45,Sales,4,Female,13,3,9,Bekerja
+50,Research & Development,4,Male,13,6,32,Bekerja
+43,Research & Development,3,Female,11,7,8,Bekerja
+32,Research & Development,1,Female,13,2,6,Bekerja
+47,Research & Development,4,Female,19,17,20,Bekerja
+51,Research & Development,4,Female,16,2,5,Bekerja
+46,Research & Development,3,Male,13,7,8,Bekerja
+44,Human Resources,3,Male,14,6,20,Tidak bekerja
+29,Research & Development,4,Female,14,7,7,Bekerja
+46,Sales,3,Female,25,13,24,Bekerja
+48,Research & Development,4,Male,25,2,2,Bekerja
+40,Research & Development,2,Male,18,2,2,Bekerja
+29,Sales,1,Female,19,2,3,Tidak bekerja
+40,Sales,2,Female,12,4,5,Bekerja
+30,Sales,2,Female,15,3,6,Tidak bekerja
+42,Research & Development,2,Female,13,3,4,Bekerja
+41,Research & Development,2,Female,17,7,8,Bekerja
+42,Research & Development,2,Male,12,9,20,Bekerja
+42,Research & Development,4,Male,13,8,20,Bekerja
+25,Sales,1,Male,11,4,7,Bekerja
+32,Research & Development,1,Male,13,2,5,Bekerja
+43,Sales,2,Male,20,7,7,Bekerja
+26,Research & Development,1,Female,13,0,1,Bekerja
+38,Research & Development,2,Male,11,2,5,Bekerja
+31,Sales,2,Male,17,1,3,Tidak bekerja
+27,Research & Development,2,Male,20,2,6,Bekerja
+41,Research & Development,2,Male,15,4,5,Bekerja
+36,Research & Development,2,Female,11,14,16,Bekerja
+38,Research & Development,2,Male,15,3,4,Bekerja
+35,Research & Development,1,Female,13,2,2,Bekerja
+45,Sales,2,Female,13,10,15,Bekerja
+47,Sales,4,Female,12,2,22,Bekerja
+56,Research & Development,5,Female,13,2,5,Bekerja
+32,Sales,1,Male,14,2,2,Bekerja
+59,Human Resources,5,Female,21,2,3,Bekerja
+28,Research & Development,1,Female,13,7,7,Tidak bekerja
+50,Sales,2,Male,14,0,0,Tidak bekerja
+30,Research & Development,2,Female,24,0,0,Bekerja
+30,Research & Development,1,Male,13,0,10,Bekerja
+30,Sales,1,Male,13,0,1,Bekerja
+21,Sales,1,Male,24,2,3,Bekerja
+35,Research & Development,1,Male,24,2,4,Tidak bekerja
+40,Research & Development,1,Female,13,7,7,Bekerja
+31,Sales,2,Female,14,7,12,Bekerja
+56,Research & Development,4,Male,11,7,10,Bekerja
+44,Research & Development,1,Male,12,3,5,Bekerja
+46,Research & Development,5,Male,11,2,4,Bekerja
+40,Research & Development,2,Male,15,2,7,Bekerja
+46,Human Resources,2,Male,22,2,4,Bekerja
+35,Sales,2,Male,14,13,15,Bekerja
+40,Research & Development,3,Female,17,7,18,Bekerja
+36,Research & Development,3,Female,14,7,8,Bekerja
+43,Research & Development,2,Female,14,7,20,Bekerja
+31,Sales,1,Female,11,2,2,Bekerja
+36,Human Resources,1,Male,13,2,5,Bekerja
+36,Research & Development,3,Female,21,7,7,Bekerja
+45,Sales,2,Male,13,7,8,Bekerja
+27,Research & Development,1,Male,15,1,1,Bekerja
+51,Research & Development,5,Male,13,18,20,Bekerja
+53,Sales,3,Female,12,7,15,Bekerja
+31,Research & Development,3,Male,12,0,1,Tidak bekerja
+35,Research & Development,1,Female,11,5,6,Bekerja
+27,Research & Development,1,Male,14,0,5,Bekerja
+27,Research & Development,1,Male,11,2,5,Bekerja
+34,Research & Development,2,Male,13,9,11,Bekerja
+38,Research & Development,2,Male,11,3,8,Bekerja
+24,Sales,2,Female,21,2,3,Bekerja
+44,Research & Development,4,Male,13,6,20,Bekerja
+43,Research & Development,4,Male,24,10,14,Bekerja
+38,Research & Development,1,Male,11,2,4,Bekerja
+33,Sales,3,Female,20,0,0,Bekerja
+41,Sales,2,Male,13,2,19,Bekerja
+46,Sales,4,Female,12,7,7,Bekerja
+42,Research & Development,1,Male,14,0,1,Bekerja
+30,Sales,2,Female,11,4,5,Bekerja
+46,Research & Development,5,Male,17,2,2,Bekerja
+36,Research & Development,2,Female,22,0,1,Bekerja
+27,Research & Development,2,Female,19,6,7,Bekerja
+32,Research & Development,2,Female,14,7,8,Bekerja
+21,Research & Development,1,Male,18,2,2,Bekerja
+41,Sales,3,Female,18,0,1,Bekerja
+21,Sales,1,Female,11,2,3,Tidak bekerja
+34,Research & Development,1,Male,14,3,4,Bekerja
+36,Research & Development,1,Male,18,0,1,Bekerja
+34,Sales,1,Female,18,3,4,Bekerja
+38,Research & Development,2,Male,16,0,1,Bekerja
+26,Research & Development,1,Male,12,0,1,Tidak bekerja
+38,Research & Development,1,Female,22,3,4,Bekerja
+48,Research & Development,1,Male,11,0,1,Bekerja
+53,Research & Development,2,Female,11,2,4,Bekerja
+39,Sales,2,Male,12,4,5,Bekerja
+32,Sales,2,Male,12,2,2,Bekerja
+34,Research & Development,2,Male,17,1,7,Bekerja
+38,Research & Development,2,Female,16,11,20,Bekerja
+34,Research & Development,2,Male,17,2,2,Bekerja
+31,Sales,3,Male,18,7,13,Bekerja
+27,Sales,2,Male,20,2,6,Bekerja
+45,Sales,3,Male,12,4,5,Bekerja
+32,Research & Development,1,Male,20,1,5,Bekerja
+56,Research & Development,3,Male,11,4,6,Bekerja
+51,Research & Development,2,Male,17,0,1,Bekerja
+50,Research & Development,4,Male,16,3,4,Bekerja
+28,Research & Development,3,Female,17,7,9,Bekerja
+33,Research & Development,2,Female,22,7,13,Tidak bekerja
+29,Research & Development,1,Female,20,0,0,Tidak bekerja
+41,Research & Development,2,Female,14,2,2,Bekerja
+52,Research & Development,2,Male,15,2,8,Tidak bekerja
+22,Research & Development,1,Male,11,0,0,Tidak bekerja
+35,Research & Development,2,Male,16,7,7,Bekerja
+28,Research & Development,1,Male,12,5,6,Bekerja
+27,Sales,2,Female,14,7,8,Bekerja
+27,Research & Development,1,Male,13,2,4,Bekerja
+47,Sales,2,Male,19,0,0,Bekerja
+27,Research & Development,1,Female,17,2,3,Bekerja
+44,Research & Development,2,Male,12,2,3,Bekerja
+33,Sales,2,Female,15,7,11,Bekerja
+33,Research & Development,1,Female,13,7,8,Bekerja
+28,Research & Development,2,Male,14,6,8,Bekerja
+35,Research & Development,3,Male,18,7,7,Bekerja
+35,Sales,1,Female,23,3,5,Bekerja
+47,Sales,4,Female,14,2,3,Bekerja
+45,Research & Development,3,Male,14,0,0,Bekerja
+35,Research & Development,3,Female,11,10,16,Bekerja
+34,Research & Development,3,Female,12,10,11,Bekerja
+36,Research & Development,1,Male,22,4,5,Bekerja
+24,Sales,2,Female,12,4,5,Bekerja
+33,Research & Development,1,Male,18,11,14,Bekerja
+26,Sales,2,Male,12,7,8,Tidak bekerja
+32,Sales,2,Male,13,2,3,Bekerja
+43,Research & Development,1,Female,12,3,5,Bekerja
+34,Research & Development,1,Male,11,2,2,Bekerja
+37,Research & Development,2,Female,15,3,4,Bekerja
+32,Research & Development,2,Female,12,13,14,Bekerja
+31,Human Resources,2,Male,12,2,2,Bekerja
+33,Sales,2,Female,25,5,6,Bekerja
+39,Sales,3,Male,11,6,7,Bekerja
+49,Sales,2,Female,12,1,5,Bekerja
+25,Research & Development,2,Male,12,3,6,Bekerja
+30,Sales,2,Female,12,8,11,Bekerja
+34,Sales,1,Male,25,10,11,Bekerja
+39,Research & Development,2,Male,21,4,5,Bekerja
+28,Research & Development,1,Male,15,0,1,Tidak bekerja
+48,Research & Development,5,Male,12,10,22,Bekerja
+35,Research & Development,3,Male,16,10,13,Bekerja
+41,Sales,3,Male,12,8,10,Bekerja
+33,Research & Development,3,Male,15,2,3,Bekerja
+30,Sales,2,Female,13,9,10,Bekerja
+24,Research & Development,1,Male,11,0,1,Bekerja
+45,Research & Development,2,Male,12,7,9,Bekerja
+25,Sales,2,Male,18,2,2,Bekerja
+35,Research & Development,1,Male,18,4,6,Bekerja
+48,Research & Development,1,Male,17,0,0,Bekerja
+40,Human Resources,4,Male,21,7,21,Bekerja
+53,Research & Development,5,Female,11,13,14,Bekerja
+31,Sales,1,Male,15,7,7,Bekerja
+35,Research & Development,2,Female,12,11,14,Bekerja
+58,Research & Development,1,Male,12,2,2,Bekerja
+38,Research & Development,1,Male,19,2,5,Bekerja
+31,Sales,1,Female,14,0,1,Tidak bekerja
+39,Sales,3,Male,18,7,8,Bekerja
+51,Research & Development,3,Male,16,9,10,Bekerja
+41,Sales,2,Female,17,3,9,Bekerja
+29,Research & Development,1,Female,14,5,7,Bekerja
+58,Research & Development,1,Male,14,0,1,Tidak bekerja
+30,Research & Development,1,Male,13,8,12,Bekerja
+49,Research & Development,2,Male,23,7,10,Bekerja
+51,Research & Development,1,Male,11,0,1,Bekerja
+24,Research & Development,1,Male,21,0,1,Bekerja
+39,Research & Development,1,Male,13,2,5,Tidak bekerja
+52,Research & Development,1,Female,15,2,2,Bekerja
+35,Research & Development,2,Male,13,11,17,Bekerja
+24,Research & Development,1,Female,13,3,6,Bekerja
+45,Sales,5,Female,16,10,24,Tidak bekerja
+30,Research & Development,3,Female,12,7,8,Bekerja
+26,Sales,2,Male,18,2,2,Tidak bekerja
+42,Research & Development,3,Male,14,8,20,Bekerja
+38,Sales,2,Female,12,2,3,Bekerja
+34,Research & Development,1,Female,15,2,3,Bekerja
+51,Research & Development,1,Female,14,0,7,Bekerja
+38,Sales,2,Female,24,0,8,Bekerja
+44,Research & Development,1,Male,13,7,8,Bekerja
+42,Research & Development,2,Female,11,4,5,Bekerja
+38,Research & Development,2,Female,13,7,9,Bekerja
+40,Sales,3,Male,12,4,5,Tidak bekerja
+34,Research & Development,2,Male,15,2,5,Bekerja
+29,Research & Development,1,Male,13,3,4,Tidak bekerja
+27,Research & Development,1,Male,11,3,5,Bekerja
+54,Research & Development,3,Female,12,3,4,Bekerja
+48,Research & Development,4,Male,22,4,5,Bekerja
+44,Research & Development,1,Male,13,2,5,Bekerja
+41,Sales,3,Male,16,0,2,Bekerja
+53,Sales,2,Female,20,7,14,Bekerja
+28,Research & Development,3,Male,12,7,10,Tidak bekerja
+38,Research & Development,3,Female,14,0,1,Bekerja
+50,Research & Development,3,Female,15,11,14,Bekerja
+28,Research & Development,1,Female,11,1,1,Tidak bekerja
+40,Research & Development,1,Male,16,2,4,Bekerja
+19,Sales,1,Female,21,0,0,Tidak bekerja
