@@ -9,11 +9,10 @@ Pada saat ini Jaya Jaya Maju memiliki permasalahan dalam pengelolaan karyawan, d
 2. Membuat modeling untuk membantu Departemen HRD melakukan prediksi terhadap data karyawan, sehingga Departemen HRD dapat mengambil action terhadap data karyawan yang terindikasi akan keluar dari perusahaan.
 
 ## Bisnis Dashboard
-![Dashboard](https://github.com/dariant08/Attrition-Prediction/assets/150717472/1ec6da55-19e0-4ce0-8450-ad8aab2071ec)
+![file_3_page-0001 (1)](https://github.com/dariant08/Jaya-Jaya-Maju-Business-Issue/assets/150717472/6de80a92-3e42-4dbb-8bd8-45419526cd28)
 
-URL Dashboard : https://public.tableau.com/app/profile/da.riant/viz/Jayajayamajudashboard/Dashboard1?publish=yes
 
-URL Video Dashboard : https://drive.google.com/file/d/1v2JmfmD3HiKjG5zxP-Mm6M-CPKnk0-h8/view?usp=sharing
+URL Dashboard (Tableau version) : https://public.tableau.com/app/profile/da.riant/viz/Jayajayamajudashboard/Dashboard1?publish=yes
 
 Sumber data : Data karyawan departemen HRD Jaya Jaya Maju
 
